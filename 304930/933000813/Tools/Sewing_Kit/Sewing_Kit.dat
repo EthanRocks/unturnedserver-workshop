@@ -1,0 +1,20 @@
+GUID 3cc9b7501281454494f6075a8acd11c9
+Type Supply
+Rarity Uncommon
+ID 62526
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Blueprints 1
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 71
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Supply_1_ID 64
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

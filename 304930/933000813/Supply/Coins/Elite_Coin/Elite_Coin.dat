@@ -1,0 +1,34 @@
+GUID 686c142700f0478aa08bbfbd8939d081
+Type Supply
+Rarity Epic
+ID 62646
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Blueprints 3
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 62636
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 62646
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Product 62636
+Blueprint_1_Products 4
+Blueprint_1_Build 27
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 62637
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Level 3
+Blueprint_2_Skill Craft
+Blueprint_2_Build 27

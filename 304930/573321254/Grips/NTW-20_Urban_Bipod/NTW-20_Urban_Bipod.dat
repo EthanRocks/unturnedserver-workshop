@@ -1,0 +1,18 @@
+GUID 9ac7f0cebe514dc2a7a48330461656ad
+Type Grip
+ID 16304
+
+Size_X 2
+Size_Y 2
+Size_Z 0.1
+
+Calibers 1
+Caliber_0 225
+
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Spread 0.9
+Shake 0.9
+
+Bipod

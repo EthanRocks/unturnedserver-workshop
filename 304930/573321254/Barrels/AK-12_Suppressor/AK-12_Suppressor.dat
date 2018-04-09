@@ -1,0 +1,19 @@
+GUID 44028e694b6f4be3a883f7a177961525
+Type Barrel
+ID 16100
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 4
+Caliber_0 233
+Caliber_1 234
+Caliber_2 235
+Caliber_3 236
+
+Braked
+Silenced 
+Volume 0.4
+
+Damage 0.9

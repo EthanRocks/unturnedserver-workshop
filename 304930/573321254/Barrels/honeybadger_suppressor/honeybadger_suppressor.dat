@@ -1,0 +1,18 @@
+GUID d2754c6e02474785b8ae18c29b604bdb
+Type Barrel
+ID 16113
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 102
+
+Silenced 
+Volume 0.7
+Braked
+
+Spread 0.5
+
+Shake_Y 0.6

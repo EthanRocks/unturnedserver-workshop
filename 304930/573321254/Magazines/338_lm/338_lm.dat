@@ -1,0 +1,24 @@
+GUID 38c0aec4c47d4f27980eb4182945ee3c
+Type Magazine
+ID 16222
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Amount 5
+Count_Min 2
+Count_Max 5
+
+Calibers 1
+Caliber_0 109
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1192
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 16222
+Blueprint_1_Build 30

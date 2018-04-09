@@ -1,0 +1,39 @@
+GUID 529217f0c57b46c2807a2bdf16894f46
+Type Vehicle
+Rarity Legendary
+ID 40006
+
+Speed_Min -8
+Speed_Max 44
+
+Steer_Min 60
+Steer_Max 80
+
+Fuel 1750
+
+Brake 100
+Lift 40
+
+Health_Min 900
+Health_Max 1000
+Health 1150
+
+Exit 4
+
+Cam_Follow_Distance 7.5
+
+LockMouse
+Engine Plane
+
+Explosion 20
+Invulnerable
+
+Turrets 1
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 1394
+Turret_0_Yaw_Min 0
+Turret_0_Yaw_Max 0
+Turret_0_Pitch_Min 90
+Turret_0_Pitch_Max 90
+
+Asset_Bundle_Version 2

@@ -1,0 +1,16 @@
+GUID beda6bd22c9f46a39438aa75118cabb1
+Type Tactical
+ID 16501
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 231
+
+Recoil_X 0.4
+Recoil_Y 0.4
+
+Laser
+Spread 0.8

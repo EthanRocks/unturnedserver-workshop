@@ -1,0 +1,43 @@
+Type Melee
+Useable Melee
+Slot Secondary
+ID 4516
+
+Size_X 2
+Size_Y 3
+Size_Z 0.7
+
+Range 3.0
+Strong 0.25
+Strength 1.8
+Stamina 10
+
+Player_Damage 34
+Player_Leg_Multiplier 1
+Player_Arm_Multiplier 1
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 50
+Zombie_Leg_Multiplier 1
+Zombie_Arm_Multiplier 1
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 2
+
+Animal_Damage 50
+Animal_Leg_Multiplier 1
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 2
+
+Barricade_Damage 20
+Structure_Damage 20
+Vehicle_Damage 25
+Resource_Damage 30
+
+Durability 0.5
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 61
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 27

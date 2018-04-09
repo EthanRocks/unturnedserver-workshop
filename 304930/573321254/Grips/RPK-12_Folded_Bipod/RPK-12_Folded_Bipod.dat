@@ -1,0 +1,22 @@
+GUID 7b1d23c681264672a2bae5956b0c5d58
+Type Grip
+ID 16308
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 234
+
+Recoil_X 0.7
+Recoil_Y 0.7
+
+Spread 0.7
+Shake 0.7
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 16307
+Blueprint_0_Build 27

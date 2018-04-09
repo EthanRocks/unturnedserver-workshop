@@ -1,0 +1,16 @@
+GUID aa1693c56ac046a7b797a273624a0b0f
+Type Barrel
+ID 16102
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 223
+
+Braked
+Silenced 
+Volume 0.6
+
+Damage 0.9

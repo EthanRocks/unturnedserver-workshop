@@ -1,0 +1,29 @@
+GUID 5af2291af4eb4af28b637377920cbe1e
+Type Storage
+Rarity Uncommon
+Useable Barricade
+Build Storage
+ID 7791
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Health 150
+Range 4
+Radius 0.0
+Offset 0.7
+
+Storage_X 5
+Storage_Y 6
+
+Locked
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 516
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Supply_1_ID 66
+Blueprint_0_Supply_1_Amount 8
+Blueprint_0_Build 7791

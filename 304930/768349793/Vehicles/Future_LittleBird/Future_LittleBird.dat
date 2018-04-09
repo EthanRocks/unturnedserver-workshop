@@ -1,0 +1,44 @@
+GUID 0b2d77acfaed41dbba30831e27a2fec6
+Type Vehicle
+Rarity Legendary
+ID 40008
+
+Speed_Min 10
+Speed_Max 23
+
+Steer_Min 50
+Steer_Max 60
+
+Fuel_Min 50
+Fuel_Max 100
+Fuel 2000
+
+Health_Min 800
+Health_Max 900
+Health 1000
+
+Exit 3
+
+LockMouse
+Engine Helicopter
+
+Cam_Follow_Distance 7.5
+
+Explosion 20
+Passenger_Explosion_Armor 0.2
+
+Turrets 2
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 1394
+Turret_0_Yaw_Min 0
+Turret_0_Yaw_Max 0
+Turret_0_Pitch_Min 90
+Turret_0_Pitch_Max 90
+Turret_1_Seat_Index 2
+Turret_1_Item_ID 1300
+Turret_1_Yaw_Min 0
+Turret_1_Yaw_Max 0
+Turret_1_Pitch_Min 90
+Turret_1_Pitch_Max 90
+
+Asset_Bundle_Version 2

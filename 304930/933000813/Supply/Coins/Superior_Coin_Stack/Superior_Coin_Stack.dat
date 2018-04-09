@@ -1,0 +1,26 @@
+GUID 0cd960b092934e019bf26577dbfea29b
+Type Supply
+Rarity Rare
+ID 62637
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Blueprints 2
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 62636
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 62637
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Product 62636
+Blueprint_1_Products 5
+Blueprint_1_Build 27

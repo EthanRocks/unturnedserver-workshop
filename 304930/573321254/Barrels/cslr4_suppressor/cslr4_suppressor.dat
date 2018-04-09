@@ -1,0 +1,23 @@
+GUID 5b17cd52b6404c0896a861b45a4592f9
+Type Barrel
+Rarity Rare
+ID 16112
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Calibers 2
+Caliber_0 110
+Caliber_1 16901
+
+Silenced
+Breaked
+Volume 0.2
+
+Quality_Min 90
+Quality_Max 100
+
+Damage 1.0
+
+Paintable

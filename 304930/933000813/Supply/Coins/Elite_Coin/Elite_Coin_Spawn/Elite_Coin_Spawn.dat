@@ -1,0 +1,11 @@
+GUID 735a0d2e7d7b4950b8b4bb5d3bd882a8
+Type Spawn
+ID 62645
+
+Roots 1
+Root_0_Spawn_ID 1
+Root_0_Weight 5
+
+Tables 1
+Table_0_Asset_ID 62646
+Table_0_Weight 1.5

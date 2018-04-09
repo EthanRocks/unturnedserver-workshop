@@ -1,0 +1,17 @@
+GUID 23df10d2b1334752bd43c9455807d2c9
+Type Grip
+Rarity Rare
+ID 16312
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Recoil_X 0.6
+Recoil_Y 0.4
+
+Spread 0.6
+Shake 0.4
+
+Bipod
+Paintable

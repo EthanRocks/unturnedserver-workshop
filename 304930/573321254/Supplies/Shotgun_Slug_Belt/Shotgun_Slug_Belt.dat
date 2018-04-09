@@ -1,0 +1,39 @@
+GUID 66a5e5defcbb41c88a02879d39ee5e2b
+Type Supply
+ID 16551
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Amount 32
+Count_Min 32
+Count_Max 32
+
+Blueprints 6
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 16108
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 113
+Blueprint_1_Supply_1_ID 67
+Blueprint_1_Supply_1_Amount 3
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 119
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 16204
+Blueprint_3_Build 30
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 16219
+Blueprint_4_Build 30
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 16217
+Blueprint_5_Build 30

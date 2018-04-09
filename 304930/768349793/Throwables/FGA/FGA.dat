@@ -1,0 +1,23 @@
+GUID 99bfc78b1bed4bc7ae04d86de2539952
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 40042
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Player_Damage 175
+Zombie_Damage 175
+Animal_Damage 175
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 100
+Resource_Damage 1000
+Object_Damage 500
+
+Range 8
+Explosion 40042
+
+Explosive

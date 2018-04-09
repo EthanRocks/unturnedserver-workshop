@@ -1,0 +1,16 @@
+GUID 6a683177f874493bbafce8441fc61713
+Type Grip
+ID 16302
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Calibers 1
+Caliber_0 224
+
+Recoil_X 0.8
+Recoil_Y 0.8
+
+Spread 0.8
+Shake 0.8

@@ -1,0 +1,24 @@
+GUID 9243f0caab3047e1bd15448348657984
+Type Magazine
+ID 16223
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Amount 10
+Count_Min 2
+Count_Max 8
+
+Calibers 1
+Caliber_0 110
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1192
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 16223
+Blueprint_1_Build 30

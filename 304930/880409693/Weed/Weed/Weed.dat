@@ -1,0 +1,23 @@
+GUID e4048862beda4f188468dc19ddd7de36
+Type Water
+Useable Consumeable
+ID 4200
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Health 100
+Water 100
+Food 100
+Energy 100
+Vision 100
+
+Blueprints 1
+Blueprint_0_Type tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 4202
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27

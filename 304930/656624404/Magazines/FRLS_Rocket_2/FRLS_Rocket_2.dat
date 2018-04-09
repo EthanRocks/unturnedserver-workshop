@@ -1,0 +1,24 @@
+GUID 5da7f40c90a0415c9d48e8ef1d2fa4e5
+Type Magazine
+Rarity Legendary
+ID 40016
+
+Size_X 2
+Size_Y 1
+Size_Z 0.225
+
+Amount 2
+
+Calibers 1
+Caliber_0 20
+
+Blueprints 1
+Blueprint_0_Type ammo
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 254
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 73
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 32

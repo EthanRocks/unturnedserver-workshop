@@ -1,0 +1,29 @@
+GUID 5b2aca3b865f4a3dbe63a6030c64cd18
+Type Magazine
+Rarity Rare
+ID 40023
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Amount 60
+Count_Min 10
+Count_Max 60
+
+Calibers 1
+Caliber_0 24
+
+Tracer 40100
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 40023
+Blueprint_1_Build 30
+
+Paintable

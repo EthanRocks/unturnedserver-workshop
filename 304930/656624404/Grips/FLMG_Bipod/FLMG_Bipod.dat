@@ -1,0 +1,17 @@
+GUID d18e735359c24350bf3c721be7e9d104
+Type Grip
+Rarity Epic
+ID 40011
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Recoil_X 0.4
+Recoil_Y 0.4
+
+Spread 0.4
+Shake 0.4
+
+Bipod
+Paintable

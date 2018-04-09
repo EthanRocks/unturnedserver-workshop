@@ -1,0 +1,26 @@
+GUID 85d55411afda4c9c93e99b9bb4658381
+Type Supply
+Rarity Legendary
+ID 62657
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Blueprints 2
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 62656
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 62657
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Product 62626
+Blueprint_1_Products 3
+Blueprint_1_Build 27

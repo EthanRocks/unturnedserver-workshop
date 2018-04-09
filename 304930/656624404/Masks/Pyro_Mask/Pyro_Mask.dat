@@ -1,0 +1,23 @@
+GUID daba2a44d6ed4fe2b75d94ec20c3425a
+Type Mask
+Rarity Rare
+Useable Clothing
+ID 40132
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Quality_Min 90
+Quality_Max 100
+
+Proof_Radiation
+
+Hair
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 40132
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 32

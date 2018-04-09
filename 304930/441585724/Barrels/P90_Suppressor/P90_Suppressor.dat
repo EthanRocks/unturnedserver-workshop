@@ -1,0 +1,18 @@
+Type Barrel
+ID 4506
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 5
+Caliber_0 43
+Caliber_1 1
+Caliber_2 37
+Caliber_3 10
+Caliber_4 17
+
+Silenced 
+Volume 0.4
+
+Damage 0.9

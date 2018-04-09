@@ -1,0 +1,19 @@
+GUID b8580f0604844ec6a7824a21dde8f6c5
+Type Barrel
+ID 16105
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Calibers 1
+Caliber_0 231
+
+Braked
+Silenced 
+Volume 0.3
+
+Recoil_X 0.7
+Recoil_Y 0.7
+
+Damage 0.9

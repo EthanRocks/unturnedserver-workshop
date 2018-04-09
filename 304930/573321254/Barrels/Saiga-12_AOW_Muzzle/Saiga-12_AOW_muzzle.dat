@@ -1,0 +1,14 @@
+GUID 443cd308b2eb4af599aad755ad11257b
+Type Barrel
+ID 16109
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Calibers 2
+Caliber_0 229
+Caliber_1 230
+
+Recoil_X 0.8
+Recoil_Y 0.8

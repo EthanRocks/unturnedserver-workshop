@@ -1,0 +1,13 @@
+GUID 4863d9af519d42dda958412adad3cc9f
+Type Barrel
+ID 16101
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 223
+
+Recoil_X 0.8
+Recoil_Y 0.8

@@ -1,0 +1,15 @@
+Type Barrel
+ID 4513
+
+Size_X 1
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 2
+
+
+Silenced 
+Volume 0.4
+
+Damage 0.9

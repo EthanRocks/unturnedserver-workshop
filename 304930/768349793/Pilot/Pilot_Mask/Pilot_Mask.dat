@@ -1,0 +1,23 @@
+GUID 4ab5be0c610a4d9bae8a1d4e79de3477
+Type Mask
+Rarity Rare
+Useable Clothing
+ID 40145
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Quality_Min 90
+Quality_Max 100
+
+Proof_Radiation
+
+Hair
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 40145
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 32

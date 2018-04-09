@@ -1,0 +1,34 @@
+GUID cb04c1cd43304cbdb008ef7cb5253885
+Type Farm
+Useable Barricade
+Build Farm
+ID 4201
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Health 1
+Range 4
+Radius 0.25
+Offset 0.4
+
+Growth 500
+Grow 4202
+
+Explosion 43
+
+
+Blueprints 2
+Blueprint_0_Type tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 75
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 345
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+Blueprint_1_Type tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 4202
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 27

@@ -1,0 +1,25 @@
+GUID f40d54476a93419690f6bd8378d029e4
+Type Magazine
+Rarity Rare
+ID 40019
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 10
+Count_Min 2
+Count_Max 7
+
+Calibers 1
+Caliber_0 8
+
+Pellets 6
+
+Tracer 48
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 113
+Blueprint_0_Build 30

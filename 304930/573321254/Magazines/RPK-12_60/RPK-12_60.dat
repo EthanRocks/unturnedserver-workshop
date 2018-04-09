@@ -1,0 +1,38 @@
+GUID 9b9940b769474c80b6c29f624d7b34c0
+Type Magazine
+ID 16212
+
+Size_X 1
+Size_Y 2
+Size_Z 0.275
+
+Amount 60
+Count_Min 25
+Count_Max 60
+
+Calibers 3
+Caliber_0 233
+Caliber_1 234
+Caliber_2 235
+
+Blueprints 5
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 16200
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 16212
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 16213
+Blueprint_3_Build 30
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 16201
+Blueprint_4_Build 30
